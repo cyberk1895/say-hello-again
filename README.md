@@ -4,7 +4,7 @@
 
 ## 这是什么
 
-2026 年 5 月，我用 [女娲 skill](https://github.com/alchaincyf/nuwa-skill) 蒸馏了江南，用 [dot-skill](https://github.com/titanwings/colleague-skill) 蒸馏了今何在，然后在 Claude Code 里让两个 AI 同时加载，传话对话。
+2026 年 5 月，我用 [女娲 skill](https://github.com/alchaincyf/nuwa-skill) 蒸馏了江南，用 [dot-skill](https://github.com/titanwings/colleague-skill) 蒸馏了今何在。2026年 5 月 20 日，我在 Claude Code 里让两个 AI 同时加载，传话对话。
 
 他们上一次私下说话是 2007 年。十九年。
 
@@ -13,7 +13,7 @@
 ## 文件
 
 - `今何在x江南_对话.txt` — 完整对谈记录
-- `我让江南和今何在的AI聊了一次天.txt` — 卡兹克风格的文章，关于这个实验的来龙去脉和它让我想到的东西
+- `我让江南和今何在的AI聊了一次天.md` — 卡兹克风味的文章，关于这个实验的来龙去脉和它让我想到的东西
 
 ## 相关 Skill
 
