@@ -12,8 +12,8 @@
 
 ## 文件
 
-- `今何在x江南_对话.txt` — 完整对谈记录
-- `say-hello-again.md` — 卡兹克风味的文章，关于这个实验的来龙去脉和它让我想到的东西
+- [`今何在x江南_对话.txt`](今何在x江南_对话.txt) — 完整对谈记录
+- [`say-hello-again.md`](say-hello-again.md) — [卡兹克风味](https://github.com/KKKKhazix/Khazix-Skills)的文章，关于这个实验的来龙去脉和它让我想到的东西
 
 ## 相关 Skill
 
