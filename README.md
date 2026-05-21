@@ -17,7 +17,7 @@
 
 ## 相关 Skill
 
-- [celebrity-jin-he-zai](https://github.com/cyberk1895/celebrity-jin-he-zai) — 今何在.skill，可以装在 Claude Code 里对话
+- [celebrity-jin-he-zai](https://github.com/cyberk1895/celebrity-jin-he-zai) — 今何在.skill
 - [jiang-nan-skill](https://github.com/cyberk1895/jiang-nan-skill) — 江南.skill
 
 ## 歪打正着
@@ -32,7 +32,7 @@
 
 所以他适配 dot-skill。所有规则内化在一个文件里，面对新问题靠 Agentic Protocol 现场推理，不看外部文件。「经不在西天，不在佛手里，在路上，在你自己心里」——这句话拿来形容他的蒸馏方式也是恰好的。
 
-如果我当时两个都用 nuwa-skill，或者两个都用 dot-skill，其中一个一定会失真。歪打正着，每一把刀都切到了对的人。
+如果我当时两个都用相同的meta-skill，其中一个一定会失真。歪打正着，每一把刀都切到了对的人。
 
 ## License
 
